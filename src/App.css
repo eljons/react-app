@@ -1,9 +1,12 @@
-
-
 .mainContainer{
   width: 680px;
 }
 
 .mainContainer h4{
-  text-align:center;
+  text-align: center;
+}
+
+.messageBox{
+  max-height: 300px;
+  overflow: auto;
 }
